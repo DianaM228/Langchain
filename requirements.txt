@@ -3,15 +3,12 @@ langchain_core
 python-dotenv
 streamlit
 langchain_community
-langserve
 fastapi
 uvicorn
 sse_starlette
 bs4
 pypdf
-chromadb
 faiss-cpu
-groq
 cassio
 beautifulsoup4
 langchain-groq
@@ -21,3 +18,9 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+httpx==0.27.0
+chromadb==0.5.x
+groq==0.x.x
+langserve==0.2.3
+langsmith==0.1.x
+openai==1.56.1
